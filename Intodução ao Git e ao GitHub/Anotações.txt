@@ -1,0 +1,43 @@
+Lembretes Importantes:
+
+Git é um versionamento de código distribuído, criado por Linus Trovals.
+
+Git = Comand Line Interface
+
+cd= Muda de diretório
+dir= Lista
+mkdir= cria repositório
+rmdir= remove repositório
+
+Sha1
+
+* Cria 40 dígitos únicos.
+* É uma forma curta de representar um arquivo.
+
+Sha1 e Objetos Fundamentais
+
+* No Git os arquivos são armazenados em objetos chamados blob.
+* As tees armazenam blobs e apontam para outra árvores.
+* Commit é o objeto que junta tudo.
+(Todos possuem Sha1)
+
+Chave SSH
+
+* É uma forma de estabelecer uma conexão segura e encripitada enter duas máquinas.
+
+Iniciar o Git e Criar um Commit
+
+* Iniciar o Git: /.git init
+* Iniciar o Versionamento: /.git add
+* Criar um Commit: /.git commit
+
+Markdown é uma forma mais humana de se escrever um arquivo HTML.
+
+
+Links Importantes:
+
+Markdown: https://www.markdownguide.org/basic-syntax/
+
+Git Dowload: https://git-scm.com/download/win
+
+Tutorial sobre Markdown: https://www.youtube.com/watch?v=Y7hs3vAcVt0
